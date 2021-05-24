@@ -1,0 +1,36 @@
+#titulo {
+    display: flex;
+    justify-content: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#titulo h1 {
+    color:rgb(47, 6, 77)
+}
+
+#telefones {
+    margin-bottom: 30px;
+}
+
+#enviar-email {
+    margin-bottom: 30px;
+}
+
+#redes-sociais img {
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+#redes-sociais a {
+    text-decoration: none;
+}
+footer {
+    margin: 30px;
+    margin-top: 70px;
+    text-align: center;
+    font-style: oblique;
+    color:rgb(47, 6, 77)
+    
+}

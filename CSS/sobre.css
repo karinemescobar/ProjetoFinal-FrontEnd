@@ -1,0 +1,29 @@
+#titulo {
+    display: flex;
+    justify-content: left;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#titulo h1 {
+    color:rgb(47, 6, 77)
+}
+
+article.content {
+    margin-top: 30px;
+}
+div.paragrafo {
+    display: flex;
+}
+img.card-img-top {
+    width: 200px;
+    height: 200px;
+}
+footer {
+    margin: 30px;
+    margin-top: 100px;
+    text-align: center;
+    font-style: oblique;
+    color:rgb(47, 6, 77)
+    
+}

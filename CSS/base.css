@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@600&display=swap');
+* {
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+    outline: none;
+}
+
+header nav.navbar {
+    background-color: rgb(178, 215, 236) !important;
+}
+
+header nav.navbar img {
+    width: 80px;
+}
+
+header div.collapse {
+    margin-left: 30px;
+}
+nav {
+    font-size: 20px;    
+}
+
+
+
+
+
+
+
