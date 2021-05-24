@@ -6,7 +6,7 @@
 }
 
 #titulo h1 {
-    color:rgb(47, 6, 77)
+    color:rgb(47, 6, 77);
 }
 
 article.content {
@@ -24,6 +24,6 @@ footer {
     margin-top: 100px;
     text-align: center;
     font-style: oblique;
-    color:rgb(47, 6, 77)
+    color:rgb(47, 6, 77);
     
 }

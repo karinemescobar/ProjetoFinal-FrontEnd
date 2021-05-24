@@ -8,7 +8,7 @@
 #titulo h1 {
     font-size: 40px;
     text-align: center;
-    color:rgb(47, 6, 77)
+    color:rgb(47, 6, 77);
 }
 
 #descricao {
@@ -47,6 +47,6 @@ footer {
     margin-top: 200px;
     text-align: center;
     font-style: oblique;
-    color:rgb(47, 6, 77)
+    color:rgb(47, 6, 77);
     
 }
